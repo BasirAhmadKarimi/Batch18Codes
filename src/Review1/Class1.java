@@ -1,0 +1,15 @@
+package Review1;
+
+public class Class1 {
+    public static void main(String[] args) {
+
+        int age=10;
+
+        System.out.println(age);
+        System.out.println();
+        age=20;
+        System.out.print(age);
+
+
+    }
+}
